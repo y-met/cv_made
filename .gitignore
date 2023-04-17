@@ -1,8 +1,21 @@
 .idea/
+models/
+results/
 
 try_1.ipynb
 try_3_code_activities.ipynb
+try_4_larger_model.ipynb
+random_crop.ipynb
+try_5.ipynb
+try_7.ipynb
+try_7-Copy1.ipynb
 
+model_swin_7_epochs.ckpt
+model_swin_more_5_epochs.ckpt
+model_swin_more_5_w_sche.ckpt
+model_swin_more_5_w_sche_back(0_9038).ckpt
+model_swin_more_5_w_sche_back(0_9200).ckpt
+model_test_1.ckpt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
